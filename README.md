@@ -1,0 +1,2 @@
+# To-Do-List-App
+App created using the Meteor.JS and React.JS framework. The app uses MongoDB to store accounts and has a login page as authentication. The app allows the user to create tasks and filter tasks that are completed or to show all of them. As each new task is created by the user, the time of creation and the task will be updated in the database which shows the most recent added task to the user.
